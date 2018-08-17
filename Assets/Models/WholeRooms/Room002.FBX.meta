@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 3af0a075974edd740807ae5a50b377e4
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BackCushion 01
+    100002: BackCushion 02
+    100004: BottomCushion 001
+    100006: BottomCushion 002
+    100008: Box002
+    100010: Box003
+    100012: CouchBackPiece
+    100014: CouchFrame
+    100016: CouchFrame001
+    100018: CouchFrame002
+    100020: CouchLeg 001
+    100022: CouchLeg 002
+    100024: CouchSide 001
+    100026: CouchSide 002
+    100028: Floor001
+    100030: //RootNode
+    100032: RWall001
+    100034: Sphere004
+    100036: SquarePillar 001
+    100038: SquarePillar 002
+    100040: SquarePillar 003
+    100042: WindowGrate
+    400000: BackCushion 01
+    400002: BackCushion 02
+    400004: BottomCushion 001
+    400006: BottomCushion 002
+    400008: Box002
+    400010: Box003
+    400012: CouchBackPiece
+    400014: CouchFrame
+    400016: CouchFrame001
+    400018: CouchFrame002
+    400020: CouchLeg 001
+    400022: CouchLeg 002
+    400024: CouchSide 001
+    400026: CouchSide 002
+    400028: Floor001
+    400030: //RootNode
+    400032: RWall001
+    400034: Sphere004
+    400036: SquarePillar 001
+    400038: SquarePillar 002
+    400040: SquarePillar 003
+    400042: WindowGrate
+    2100000: No Name
+    2300000: BackCushion 01
+    2300002: BackCushion 02
+    2300004: BottomCushion 001
+    2300006: BottomCushion 002
+    2300008: Box002
+    2300010: Box003
+    2300012: CouchBackPiece
+    2300014: CouchFrame
+    2300016: CouchFrame001
+    2300018: CouchFrame002
+    2300020: CouchLeg 001
+    2300022: CouchLeg 002
+    2300024: CouchSide 001
+    2300026: CouchSide 002
+    2300028: Floor001
+    2300030: RWall001
+    2300032: Sphere004
+    2300034: SquarePillar 001
+    2300036: SquarePillar 002
+    2300038: SquarePillar 003
+    2300040: WindowGrate
+    3300000: BackCushion 01
+    3300002: BackCushion 02
+    3300004: BottomCushion 001
+    3300006: BottomCushion 002
+    3300008: Box002
+    3300010: Box003
+    3300012: CouchBackPiece
+    3300014: CouchFrame
+    3300016: CouchFrame001
+    3300018: CouchFrame002
+    3300020: CouchLeg 001
+    3300022: CouchLeg 002
+    3300024: CouchSide 001
+    3300026: CouchSide 002
+    3300028: Floor001
+    3300030: RWall001
+    3300032: Sphere004
+    3300034: SquarePillar 001
+    3300036: SquarePillar 002
+    3300038: SquarePillar 003
+    3300040: WindowGrate
+    4300000: RWall001
+    4300002: Floor001
+    4300004: WindowGrate
+    4300006: BackCushion 01
+    4300008: BackCushion 02
+    4300010: CouchSide 001
+    4300012: CouchSide 002
+    4300014: BottomCushion 001
+    4300016: BottomCushion 002
+    4300018: CouchBackPiece
+    4300020: CouchFrame
+    4300022: CouchLeg 001
+    4300024: SquarePillar 001
+    4300026: SquarePillar 002
+    4300028: SquarePillar 003
+    4300030: Box002
+    4300032: CouchFrame001
+    4300034: CouchLeg 002
+    4300036: Box003
+    4300038: CouchFrame002
+    4300040: Sphere004
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
